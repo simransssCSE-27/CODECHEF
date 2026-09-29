@@ -1,16 +1,70 @@
-# React + Vite
+🐄 CoChef — College Event Management
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🐄 CoChef — College Event Management
 
-Currently, two official plugins are available:
+**A little less chaos, a little more CoChef.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+CoChef is a responsive college event management website that brings event discovery, registration and event management together in one place.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🔎 **Event Discovery** — Browse, search and filter upcoming events.
 
-## Expanding the Oxlint configuration
+* 📝 **Event Registration** — Register with form validation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+* 🧑‍🍳 **Admin Dashboard** — Add, edit and delete events.
+
+* 📋 **Registration Management** — View and search registered participants.
+
+* 📱 **Responsive Design** — Works across desktop and mobile screens.
+
+* 💾 **Data Persistence** — Uses browser localStorage.
+
+## 🛠️ Tech Stack
+
+* React.js
+
+* Vite
+
+* JavaScript
+
+* HTML5 & CSS3
+
+* localStorage
+
+## 🌐 Live Demo
+
+🚀 [**Visit CoChef**](https://tourmaline-muffin-c9d987.netlify.app/)
+
+## 💻 Run Locally
+
+```
+git clone https://github.com/simransssCSE-27/web_dev_exp_simran.git
+cd web_dev_exp_simran/CoChef-Event-Management
+npm install
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 🔮 Future Improvements
+
+* MongoDB integration
+
+* Node.js and Express.js backend
+
+* Secure admin authentication
+
+* Email registration confirmations
+
+## 👩‍💻 Developer
+
+**Simran Yadav**
+
+* [GitHub](https://github.com/simransssCSE-27)
+
+* [LinkedIn](https://www.linkedin.com/in/simranyadav6/)
+
+---
+
+*Good events deserve a good platform. That's CoChef.* 🐄
